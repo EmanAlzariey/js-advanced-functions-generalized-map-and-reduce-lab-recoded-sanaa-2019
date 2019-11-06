@@ -1,5 +1,4 @@
 // Add your functions here
-// Add your functions here
 
 array= [1,2,3]
 
